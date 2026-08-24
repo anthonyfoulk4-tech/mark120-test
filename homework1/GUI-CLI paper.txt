@@ -1,0 +1,1 @@
+GUI is more user friendly, allowing for a point and click method rather than CLI. CLI uses more of a command based interface for any action you want to do, meaning it uses commands and parameters for any action.
